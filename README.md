@@ -9,8 +9,8 @@ The latter is a module used in the former file.
 # Usage
 It takes a ```.txt``` file containing number sequence, not necessarily formatted correctly (```sanitize.py``` has a ```sanitize_ns``` function that can sanitize number sequence), and then reads it. It prompts the user to give it a number sequence, and it runs the number sequence in the former one and checks if there is a match. And it finally returns the total hits.
 
-# Prerequisites:
+# Prerequisites
 You must have already installed [Python 3](https://www.python.org/downloads/) on your local computer.
 
-# How to Use:
+# How to Use
 Just run the ```ns_tmatch.py``` like another python file.
